@@ -1,0 +1,1 @@
+const Staff = () => <h2>Quản lý Nhân viên</h2>; export default Staff;

@@ -1,0 +1,1 @@
+const Reports = () => <h2>Báo cáo & Phân tích</h2>; export default Reports;

@@ -1,0 +1,30 @@
+.table-detail-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .main-section {
+    display: flex;
+    flex: 1;
+    padding: 10px;
+    gap: 20px;
+  }
+  
+  .left-panel, .right-panel {
+    flex: 1;
+    border: 1px solid #ccc;
+    padding: 10px;
+    overflow-y: auto;
+    border-radius: 8px;
+    background: #f9f9f9;
+  }
+  
+  .bottom-panel {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+  }
+  

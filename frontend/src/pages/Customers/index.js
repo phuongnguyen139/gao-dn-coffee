@@ -1,0 +1,1 @@
+const Customers = () => <h2>Khách hàng</h2>; export default Customers;
